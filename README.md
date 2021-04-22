@@ -9,8 +9,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/luciferon?tab=followers">
-    <img src="https://img.shields.io/github/followers/luciferon?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  <a href="https://github.com/yashjain0?tab=followers">
+    <img src="https://img.shields.io/github/followers/yashjain0?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
   <a href="http://twitter.com/y_ashj">
     <img src="https://img.shields.io/twitter/follow/y_ashj?label=Twitter&logo=twitter&style=for-the-badge" />
@@ -29,8 +29,8 @@
 ---
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=luciferon&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=luciferon&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yashjain0&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yashjain0&theme=tokyonight" />
 </p>
 
 
