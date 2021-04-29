@@ -1,6 +1,6 @@
 <p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
-<p align="center"><img width="30%" src="![Uploading Screenshot 2021-04-29 at 12.19.58 PM.png…]()" alt="SMHEER " /></p>
+<p align="center"><img width="30%" src="" alt="SMHEER " /></p>
 
 <p align="center">SMHEER is my own cult and the mark by which I want to be known. It stands for the fact that<b> Eternity is Incomplete </b>Starting to contribute in open sources to bring about a community of positives and leave a digital foot-print of my own.</p>
 
