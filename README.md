@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="![Screenshot 2021-04-29 at 12 19 58 PM](https://user-images.githubusercontent.com/62240937/116512723-16006080-a8e6-11eb-97b4-4b63b208924a.png)" alt="lang image " /></p>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
 <p align="center"><img width="30%" src="![Uploading Screenshot 2021-04-29 at 12.19.58 PM.png…]()" alt="SMHEER " /></p>
 
