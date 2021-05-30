@@ -5,7 +5,7 @@
 
 
 
-<p align="center">In recent years given a part of myself in investing at different platforms and of different types ranging from mutual funds, stocks, crypto currencies and NTFs, want to find out more logical view of investment using and making different algorithms.</p>
+<p align="center">In recent years given a part of myself in investing at different platforms and of different types ranging from mutual funds, stocks, crypto currencies and NFTs, want to find out more logical view of investment using and making different algorithms.</p>
 
 
 <p align="center">
